@@ -1,10 +1,8 @@
 # 1121slot
 
-Halo! Ini repo latihan pertama gue di GitHub.
+1121slot brings Indonesia Sportsbook, slots and live tables together with DANA, OVO, GoPay and QRIS for supported regions.
 
-Belajar dari Kubang, Riau - rifsold
-
-## Proses Belajar:
+## link alternatif:
 - Bikin repo
 - Edit README.md
 - Commit changes
