@@ -3,11 +3,12 @@
 1121slot brings Indonesia Sportsbook, slots and live tables together with DANA, OVO, GoPay and QRIS for supported regions.
 
 ## link alternatif:
-- Bikin repo
-- Edit README.md
-- Commit changes
-Halo! Ini repo latihan pertama gue di GitHub.
+- 1121slot.com
+- 1121slot.me
+- 1121slot.en
+- 1121slot.id
+- 1121slot.sbs
+- 1121slot.link
 
-### Link Gue:
+### Link daftar dan login klik di bawah ini:
 - Website: https://rifsold.github.io/1121slot/
-- Instagram: https://instagram.com/username-lu
