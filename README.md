@@ -11,4 +11,4 @@
 - 1121slot.link
 
 ### Link daftar dan login klik di bawah ini:
-- Website: [klik di sini](https://rifsold.github.io/1121slot/)
+- Website: [klik di sini](https://cutgo.id/1121Slot)
